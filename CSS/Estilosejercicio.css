@@ -1,0 +1,125 @@
+* {
+    padding: none;
+    margin: none;
+}
+
+
+h1 {
+    align-items: flex-start;
+}
+
+h2 {
+    color: rgb(238, 41, 238);
+    text-align: left;
+    font-size: 46px;
+    font-family: Helvetica;
+}
+
+h3 {
+    color: honeydew;
+    font-size: 12px;
+}
+
+h6 {
+    color: honeydew;
+    text-align: center;
+    font-size: 10px;
+    font-family: Helvetica;
+    font-style: italic;
+}
+
+p {
+    color: rgb(4, 37, 53);
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+.imputs {
+    border-color: rgb(224, 52, 224);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.imputs:hover {
+    border-color: turquoise;
+}
+
+.colorheader{
+    background-color: rgb(15, 2, 41);
+}
+
+.colormenu{
+    background-color: rgb(13, 153, 13);
+    width: auto;
+}
+
+.banner {
+    background-color: rgb(187, 187, 187);
+    padding: 20px;
+    align-content: center;
+    align-items: center;
+}
+
+.container-fluid-table {
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 4px; 
+    background-color: ghostwhite;
+    padding: 20px;
+    width: 800px;
+    align-items: center;
+    justify-content: center;   
+}
+
+.header2{
+    background-color: rgb(187, 187, 187);
+    height: 50px;
+}
+
+.boton {
+    padding: 10px;
+    background-color: rgb(197, 133, 216);
+    border-color: rgb(100, 27, 100);
+    border-style: solid;
+    border-radius: 2px;
+    width: 220px;
+    transition-duration: 1s;
+    
+}
+
+.boton:hover {
+    border-color: turquoise;
+    transform: scale(0);
+}
+
+.transformaciones:hover {
+    transform: scale(1.s);
+}
+
+.navbar-dark {
+    background-color:rgba(248, 7, 176, 0.151);
+}
+
+.fa-youtube-square .fa-linkedin {
+    color:rgb(248, 7, 176);
+}
+
+.bg-azul {
+    background-color: rgba(40, 146, 173, 0.329);
+    border-color: rgb(82, 203, 240);
+    color: honeydew;
+    align-items: space-around;
+}
+
+.btn-primary {
+    background-color: rgb(71, 28, 110);
+    border: rgb(225, 5, 245);
+    transition-duration: 0.5s;
+}
+
+.btn-primary:hover {
+    background-color: blueviolet;
+    border-color: turquoise;
+    }
+
+
